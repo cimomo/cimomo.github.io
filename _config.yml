@@ -1,0 +1,57 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Forgotten Magic"
+description: > # this means to ignore newlines until "email:"
+   by Kai Chen
+
+email: kaichen@outlook.com
+#blog logo
+logo: "/assets/images/kai2.png"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/cover.jpg"
+
+name: 'Kai Chen'
+author: 'Kai Chen'
+author_image: "/assets/images/kai2.png"
+
+paginate:	5
+
+url: "http://cimomo.github.io" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@supercimomo'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	facebook
+    url:	https://facebook.com/cimomo
+    desc: Connect with me facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/cimomo
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: twitter
+    url:  https://twitter.com/supercimomo
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+

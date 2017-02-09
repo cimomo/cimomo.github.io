@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hello, magic!"
+date:   2017-02-09
+categories: 
+tags: 
+image: /assets/article_images/2017-02-09-first/cover.jpg
+---
+Ok, there is no magic, just yet ...
